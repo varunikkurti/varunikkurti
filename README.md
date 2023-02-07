@@ -1,4 +1,4 @@
-[![MasterHead](https://ares.decipherzone.com/blog-manager/uploads/banner_webp_51ddbe10-6b83-4d6c-b762-ab26ab3a62b9.webp)](https://varunikkurti.io)
+[![MasterHead](https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835110.jpg)](https://varunikkurti.io)
 <h1 align="center">Hi 👋, I'm Varun Kumar Ikkurti</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 
