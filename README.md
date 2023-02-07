@@ -1,6 +1,6 @@
 [![MasterHead](https://as2.ftcdn.net/v2/jpg/04/48/03/45/1000_F_448034583_eOXhPm31bHaDTIJ1nsmfbhrll4lCsnVW.jpg)](https://varunikkurti.io)
 <h1 align="center">Hi 👋, I'm Varun Kumar Ikkurti</h1>
-<h3 align="center">A passionate Devops Engineer from India</h3>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunikkurti&label=Profile%20views&color=0e75b6&style=flat" alt="varunikkurti" /> </p>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **AWS, Jenkins, Docker-compose, Ansible, Terraform, Nginx, K8s**
 
-- 💬 Ask me about **Devops & Tech relate stuff**
+- 💬 Ask me about **DevOps & Tech relate stuff**
 
 - 📫 How to reach me **varunikkurti@gmail.com**
 
