@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1303169188%2Fphoto%2Fdevops-concept.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DRzgMNp4TqIzpjZddZ4Lqyun9uXg5P1uF586BBIy1Fu8%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fdevops-engineer&tbnid=WBLu-mQnl19EkM&vet=12ahUKEwjwo_ebj4P9AhXlnNgFHcMbDycQMygEegUIARDSAQ..i&docid=XM1G6nC-hPXvbM&w=612&h=344&q=devops%20engineer%20banner&ved=2ahUKEwjwo_ebj4P9AhXlnNgFHcMbDycQMygEegUIARDSAQ)](https://rishavchanda.io)
+[![MasterHead](https://ares.decipherzone.com/blog-manager/uploads/banner_webp_51ddbe10-6b83-4d6c-b762-ab26ab3a62b9.webp)](https://varunikkurti.io)
 <h1 align="center">Hi 👋, I'm Varun Kumar Ikkurti</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 
