@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/63/69/62/900_F_263696273_mJrW8OWGHJX6L4HQaveEtbF60SSDuhGW.jpg)](https://varunikkurti.io)
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/63/69/62/1000_F_263696273_mJrW8OWGHJX6L4HQaveEtbF60SSDuhGW.jpg)](https://varunikkurti.io)
 <h1 align="center">Hi 👋, I'm Varun Kumar Ikkurti</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 
